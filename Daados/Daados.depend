@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1614328515 source:c:\users\morey\onedrive\escritorio\daados\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<cstring>
+	"funciones.h"
+
+1614238418 c:\users\morey\onedrive\escritorio\daados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1614328131 source:c:\users\morey\onedrive\escritorio\daados\funciones.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+
+1614312781 c:\users\morey\onedrive\escritorio\daados\funciones.h
+
